@@ -1,0 +1,57 @@
+
+
+.flex{
+    display: flex;
+    align-items: center;
+}
+header{
+    height: 223px;;
+    background-image: url(images/155557849718168756\ 1.png);
+}
+.poneli{
+    display: flex;
+    gap: 20%;
+}
+.poneli_1 a{
+    text-decoration: none;
+    color: black;
+    font-size: 35px;
+}
+main{
+    margin-top: 2%;
+}
+.text{
+    font-size: 30px;
+}
+.poneli_2{
+    display: flex;
+    gap: 1%;
+}
+.kartina{
+    margin: 15px;
+}
+main>p{
+    font-family: 'Ubuntu', sans-serif;
+    font-size:  30px;
+}
+.kartina_2{
+    display: flex;
+    align-items: right;
+}
+.text_2{
+    font-size: 35px;
+}
+.kartina_3{
+    display: flex;
+    align-items: right;
+}
+.text_1{
+    font-size: 35px;
+}
+p{
+    font-size: 35px;  
+}
+.porepa{
+    margin: 15px;
+    left: 100px;
+}
